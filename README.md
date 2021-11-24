@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div>
   <h1>Contact Me</h1>
   <h2>
-    <a href="https://www.instagram.com/reza_xaro/">instagram</a>
+    <a href="https://www.instagram.com/reza_gorgi4/">instagram</a>
         <a href="https://discord.gg/4y5jAEpF6Y">Discord Server</a>
    </h2>
 </div>

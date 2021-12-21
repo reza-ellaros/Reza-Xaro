@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://media.discordapp.net/attachments/832678285808500738/832678621143367761/91_Discord_logo_logos-512.webp?width=461&height=461" /> Discord ID : क Reza ᴳᴼᴿᴳᴵ#0007
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://media.discordapp.net/attachments/832678285808500738/832678621143367761/91_Discord_logo_logos-512.webp?width=461&height=461" /> Discord ID : क Reza ᴳᴼᴿᴳᴵ#5822
 
 
 ---

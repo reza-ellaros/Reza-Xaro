@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 ---
 ## Github Status !!
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reza-Xaro&show_icons=true&locale=en&layout=compact" alt="Reza-Xaro" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Reza-Xaro&show_icons=true&locale=en" alt="Reza-Xaro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reza-Xaro&show_icons=true&locale=en&layout=compact" alt="reza-ellaros" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Reza-Xaro&show_icons=true&locale=en" alt="reza-ellaros" /></p>
 
 
 
